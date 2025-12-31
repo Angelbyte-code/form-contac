@@ -10,4 +10,4 @@ El formulario Incluye validaciones basicas y un mensaje de confirmacion al envia
 - **Validaciones con JS** : para tener una mejor experiencia usar validaciones con js y mostrar ciertos mensajes.
 
 ## Contenido
-- [Instalacion] (#instalacion)
+- [Instalacion](#instalacion)
